@@ -4,7 +4,8 @@
   "description": "Birthday greetings..",
   "main": " ",
   "scripts": {
-    "server-node": "http-server -p 8081"
+    "server-node": "http-server -p 8081",
+    "build": "echo 'Static site — no build step required'"
   },
   "repository": {
     "type": "git",

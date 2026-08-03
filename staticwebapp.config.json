@@ -1,0 +1,10 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["*.png", "*.jpg", "*.ico", "*.mp3", "*.css", "*.js", "*.less"]
+  },
+  "mimeTypes": {
+    ".mp3": "audio/mpeg",
+    ".less": "text/plain"
+  }
+}

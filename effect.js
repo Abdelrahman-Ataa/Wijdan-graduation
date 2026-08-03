@@ -327,7 +327,7 @@ window.addEventListener('DOMContentLoaded', function(){
 	   MESSAGE  —  full screen, no scroll, hero hidden
 	   ---------------------------------------------------------------- */
 	var messages = [
-		['🌸 today is your day 🌸', 'sweet wijdan'],
+		['🌸 today is your day 🌸', 'sweet Wijdan'],
 		['you have blossomed', 'into something truly beautiful'],
 		['✨ you did it 🎓 ✨', ''],
 		['every early morning', 'every late night study'],
